@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.App {
+  width: 550px;
+  margin: 0 auto;
+  height: 704px;
+}
+
+nav {
+  background-color: #F55A5A;
+  display: flex;
+  align-items: center;  
+  justify-content: center;
+  height: 55px;
+  
+}
+
+nav h1 {
+  color: white;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14.4608px;
+  line-height: 18px;
+  letter-spacing: -0.075em;  
+  padding-left: 7px;
+}
+
