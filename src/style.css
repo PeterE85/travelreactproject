@@ -1,13 +1,13 @@
 * {
   margin: 0;
   padding: 0;
-  overflow: hidden;
+  overflow: auto;
 }
 
 .App {
   width: 550px;
   margin: 0 auto;
-  height: 100%;
+  
 }
 
 nav {

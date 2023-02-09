@@ -31,5 +31,13 @@ export default [
     coverImg: "https://source.unsplash.com/3PeSjpLVtLg",
     location: "New York"
     },
+    {
+      id: 4,
+      title: "Breanny",
+      description: "The Geiranger Fjord is a fjord in the Sunnmøre region of Møre og Romsdal county, Norway. It is located entirely in the Stranda Municipality.",
+      date: "01 Oct, 2021 - 18 Nov, 20211",
+      coverImg: "https://source.unsplash.com/3PeSjpLVtLg",
+      location: "New York"
+      },
 ]
 
